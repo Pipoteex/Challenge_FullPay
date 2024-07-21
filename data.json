@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Fecha": "2024-07-21",
+        "Asunto": "Pago de servicios",
+        "Cuenta": "123456789",
+        "Banco": "Banco XYZ",
+        "Factura": "FAC-2024-001"
+    },
+    {
+        "id": 2,
+        "Fecha": "2024-07-20",
+        "Asunto": "Compra de materiales",
+        "Cuenta": "987654321",
+        "Banco": "Banco ABC",
+        "Factura": "FAC-2024-002"
+    },
+    {
+        "id": 3,
+        "Fecha": "2024-07-19",
+        "Asunto": "Pago de alquiler",
+        "Cuenta": "112233445",
+        "Banco": "Banco DEF",
+        "Factura": "FAC-2024-003"
+    }
+]
